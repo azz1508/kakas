@@ -1,0 +1,18 @@
+//Source file: E:\\DesignModel\\Login.java
+
+package DesignModel;
+
+
+public class Login 
+{
+   private int UserID;
+   private int Password;
+   
+   /**
+   @roseuid 592E06690200
+    */
+   public Login() 
+   {
+    
+   }
+}

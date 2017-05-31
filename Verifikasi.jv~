@@ -1,0 +1,18 @@
+//Source file: E:\\DesignModel\\Verifikasi.java
+
+package DesignModel;
+
+
+public class Verifikasi 
+{
+   private int UserID;
+   private int Password;
+   
+   /**
+   @roseuid 592E06690257
+    */
+   public Verifikasi() 
+   {
+    
+   }
+}

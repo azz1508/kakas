@@ -1,0 +1,20 @@
+//Source file: E:\\DesignModel\\Registrasi.java
+
+package DesignModel;
+
+
+public class Registrasi 
+{
+   private int Nama;
+   private int UserID;
+   private int Password;
+   private int Email;
+   
+   /**
+   @roseuid 592E0669022F
+    */
+   public Registrasi() 
+   {
+    
+   }
+}
